@@ -1,10 +1,10 @@
 {
-  "name": "react-native-collapsible-header",
-  "description": "A collapsible header/navbar component for React Native.",
-  "version": "0.0.11",
-  "main": "collapsible.js",
+  "name": "react-native-collapsible-image-view",
+  "description": "A collapsible image view component for React Native.",
+  "version": "0.0.1",
+  "main": "src/CollapsibleImageView.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sonaye/react-native-collapsible-header.git"
+    "url": "git+https://github.com/tombailey/react-native-collapsible-image-view.git"
   }
 }
